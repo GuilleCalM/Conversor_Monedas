@@ -87,7 +87,7 @@ public class Main {
         System.out.println("¡Hasta luego!");
     }
 
-    private static void convertCurrency(String fromCurrency, String toCurrency, Scanner scanner) throws IOException, InterruptedException {
+    private static void convertCurrency(String fromCurrency, String toCurrency, Scanner scanner) throws IOException {
         // Save the selected destination currency
         if (!toCurrency.isEmpty()) {
             // Use the selected destination currency for the conversion

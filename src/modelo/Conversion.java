@@ -6,7 +6,7 @@ public class Conversion {
     private final double conversionRate;
     private final String formattedDateTime;
     private final double valueToConvert;
-    private double convertedValue;
+    private final double convertedValue;
 
     public Conversion(String toCurrency, String fromCurrency, double conversionRate, String formattedDateTime, double valueToConvert, double convertedValue) {
         this.toCurrency = toCurrency;
