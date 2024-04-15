@@ -4,5 +4,5 @@ Proyecto realizado en java 17, consumiendo el siguiente api: https://www.exchang
 
 
   <h4>Funcionalidades:</h4>
-  - Conversion de monedas
-  - Historial de conversiones
+  <li>Conversion de monedas</li>
+  <li>Historial de conversiones</li>
